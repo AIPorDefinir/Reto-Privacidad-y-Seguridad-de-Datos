@@ -1,5 +1,7 @@
 # Reto-Privacidad-y-Seguridad-de-Datos
 
+> Este repositorio se fusionó con todo su historial en [ai-model-tutsipink](https://github.com/AIPorDefinir/ai-model-tutsipink), donde el módulo sigue en [la sección de Privacidad y seguridad de datos del README](https://github.com/AIPorDefinir/ai-model-tutsipink#módulo-de-privacidad-y-seguridad-de-datos). Este repositorio queda archivado y ya no se actualiza.
+
 ## Reportes
 
 Como parte de la actividad, se encargó un reporte individual por cada uno de los integrantes.
